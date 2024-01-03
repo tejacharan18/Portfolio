@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="547px" height="454px" viewBox="0 0 547 454" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>egg-violet</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="131.901042%" y1="134.153646%" x2="-37.6627604%" y2="-30.5403646%" id="linearGradient-1">
+            <stop stop-color="#9B23EA" offset="0%"></stop>
+            <stop stop-color="#5F72BD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-final-copy" transform="translate(-85.000000, -1703.000000)" fill="url(#linearGradient-1)">
+            <g id="threats" transform="translate(30.000000, 1653.000000)">
+                <g id="Group-3">
+                    <path d="M273.731457,514.766311 C397.600326,514.766311 603.438922,413.213983 603.438922,288.81807 C603.438922,164.422157 397.600326,64.288862 273.731457,64.288862 C149.862588,64.288862 49.4470289,165.131674 49.4470289,289.527587 C49.4470289,413.923499 149.862588,514.766311 273.731457,514.766311 Z" id="egg-violet" transform="translate(326.442975, 289.527587) rotate(-195.000000) translate(-326.442975, -289.527587) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

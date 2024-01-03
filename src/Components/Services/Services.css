@@ -1,0 +1,54 @@
+.button{
+    border:none;
+    color:white;
+    background-color: blue;
+    padding: 2vh 2vh;
+    border-radius: 34px;
+    font-size: medium;
+}
+.button:hover{
+    background-color: white;
+    color:blue;
+    cursor: pointer;
+    border: 1px solid blue;   background-color: #2eb1e5;
+    box-shadow: 0px 15px 20px rgba(46, 205, 229, 0.4);
+    color: #fff; padding: 2vh 2vh;
+}
+.service{
+    padding: 0 3rem 0 3rem;
+    display: flex;
+    height:90vh;
+    margin-bottom: 8rem;
+    margin-top: 9rem;
+    margin-bottom: 13rem; 
+}
+.left{
+    display:flex;
+    flex:1;
+    flex-direction: column;
+    position: relative;
+   
+}
+
+.left>:nth-child(1){
+    font-size: 4rem;
+    font-weight: bold;
+}
+.left>:nth-child(2){
+    color:blue;
+    font-size: 4rem;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+.button{
+
+    margin-top: 1rem;
+}
+
+.right{
+    flex:1;
+    position: relative;
+}
+.right>*{
+    position: absolute;
+}
