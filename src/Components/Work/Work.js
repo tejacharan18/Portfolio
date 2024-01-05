@@ -25,7 +25,7 @@ export default function Work(){
             </div>
             <div className='w-right'>
                 <motion.div  
-                initial={{rotate:45}}
+                initial={{rotate:120}}
                 whileInView={{rotate:0}}
                 viewport={{margin:'-40px'}}
                 transition={{duration:2.5, type:'spring'}}
