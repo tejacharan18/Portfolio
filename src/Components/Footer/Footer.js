@@ -11,7 +11,7 @@ export default function Footer()
 <img src={foot} style={{width:'100%'}}/>
 <div className='f-content'>
     <span>Tejacharantc1234@gmail.com</span>
-    <div className='f-icons'>
+    <div className='f-icons i'>
         <Insta color='white' size='3rem'/>
         <Github color='white' size='3rem'/>
         <Linkedin color='white' size='3rem'/>

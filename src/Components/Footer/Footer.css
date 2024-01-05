@@ -25,3 +25,24 @@
     display: flex;
     gap: 2rem;
 }
+
+@media  screen and (max-width:480px) {
+  .footer
+  {
+    margin-top: -10rem;
+    flex-direction: column;
+    gap: 5rem;
+    height: 80rem;
+    padding: 0;
+
+  }
+  .f-content span 
+  {
+    margin-top: 1rem;
+  }
+  .i
+  {
+    margin-top: -2.8rem;
+  }
+
+}

@@ -68,7 +68,7 @@ const transition = {duration:2,type:'spring'}
                     initial={{top:'-10%',left:'90%'}}
                     whileInView={{left:'73%'}}
                     transition={transition}
-
+                    className='floatind-div'
 
                     style={{ top: '-10%', left: '73%',
                 color : darkMode? 'black':'' }}>
@@ -80,7 +80,7 @@ const transition = {duration:2,type:'spring'}
                     initial={{top:'23rem',left:'20rem'}}
                     whileInView={{left:'1rem'}}
                     transition={transition}
-                    
+                    className='floatind-div'
                     style={{ top: '23rem', left: '1rem',color : darkMode? 'black':'' }}>
                         <Floating image={thumb} txt1='Full Stack' txt2='Developer' />
                     </motion.div>

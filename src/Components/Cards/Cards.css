@@ -37,3 +37,11 @@ font-size: 16px;
 .learn:hover{
     cursor: pointer;
 }
+@media  screen and (max-width:480px)
+{
+.Cards
+{
+    width: 280px;
+    
+}
+}

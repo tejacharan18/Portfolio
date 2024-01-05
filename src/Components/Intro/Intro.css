@@ -114,3 +114,28 @@ transform: scale(0.87);
     font-family: 'Gumela';
     src: url('../../Fonts/Gumela\ Regular.otf');
 }
+
+
+@media  screen and (max-width:480px)
+{
+    .intro{
+        flex-direction: column;
+        height: 64rem;
+        gap:7rem;
+    }
+    .intro-right{
+        transform: scale(0.8);
+        left: -4.3rem;
+    }
+    .intro-right .blur
+    {
+        display: none;
+    }
+    .intro-right>:nth-child(2){
+        top:-7rem;
+}
+.floatind-div:nth-of-type(2)
+{
+top:30rem !important;
+}
+}

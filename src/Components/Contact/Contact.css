@@ -46,3 +46,17 @@ textarea
     width: 7rem;
     height: 3rem;
 }
+
+@media  screen and (max-width:480px) {
+    .contact-form
+    {
+        margin-top: -10rem;
+        flex-direction: column;
+        gap: 5rem;
+        height: 66rem;
+        padding: 0;
+        height: 70rem;
+        gap:7rem;
+
+    }
+}

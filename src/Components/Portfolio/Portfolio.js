@@ -24,34 +24,34 @@ export default function Portfolio() {
                     slidesPerView={3}
                     grabCursor={true}
                     className='portfolio-slider'>
-                    <SwiperSlide>
+                    <SwiperSlide className='t'>
                         <img src={c1} />
                     </SwiperSlide>
-                    <SwiperSlide>
+                    <SwiperSlide className='t'>
                         <img src={cer1} />
                     </SwiperSlide>
-                    <SwiperSlide>
+                    <SwiperSlide className='t'>
                         <img src={c2} />
                     </SwiperSlide>
-                    <SwiperSlide>
+                    <SwiperSlide className='t'>
                         <img src={cer2} />
                     </SwiperSlide>
-                    <SwiperSlide>
+                    <SwiperSlide className='t'>
                         <img src={c3} />
                     </SwiperSlide>
-                    <SwiperSlide>
+                    <SwiperSlide className='t'>
                         <img src={cer3} />
                     </SwiperSlide>
-                    <SwiperSlide>
+                    <SwiperSlide className='t'>
                         <img src={c4} />
                     </SwiperSlide>
-                    <SwiperSlide>
+                    <SwiperSlide className='t'>
                         <img src={cer4} />
                     </SwiperSlide>
-                    <SwiperSlide>
+                    <SwiperSlide className='t'>
                         <img src={c5} />
                     </SwiperSlide>
-                    <SwiperSlide>
+                    <SwiperSlide className='t'>
                         <img src={cer5} />
                     </SwiperSlide>
 

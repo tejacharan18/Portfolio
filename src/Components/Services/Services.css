@@ -52,3 +52,31 @@
 .right>*{
     position: absolute;
 }
+@media  screen and (max-width:480px)
+{
+    .service
+    {
+        margin-top: 0;
+        flex-direction: column;
+        gap: 5rem;
+        height: 66rem;
+        padding: 0;
+        height: 70rem;
+        gap:7rem;
+
+    }
+.right
+{
+    display: flex;
+    flex-direction: column;
+    gap: 17rem;
+    
+}
+.right>*{
+    position: static;
+}
+.left
+{
+    margin-top: 15rem;
+}
+}
